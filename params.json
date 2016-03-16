@@ -1,7 +1,7 @@
 {
   "name": "Donghyun2005.com",
   "tagline": "donghyun2005",
-  "body": "'''javascript\r\ndraw = function(){\r\n    background(255, 255, 255);\r\n    \r\n    ellipse(mouseX, mouseY, 30, 30);\r\n    \r\n};\r\n\r\n'''\r\n",
+  "body": "```javascript\r\ndraw = function(){\r\n    background(255, 255, 255);\r\n    \r\n    ellipse(mouseX, mouseY, 30, 30);\r\n    \r\n};\r\n\r\n```\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
